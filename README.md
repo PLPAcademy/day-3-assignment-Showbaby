@@ -10,7 +10,7 @@ A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
-Answer : B) Download the dart SDK
+Answer : B) Download the dart SDK .
 
 2. Which command verifies the Dart installation on macOS?
 
